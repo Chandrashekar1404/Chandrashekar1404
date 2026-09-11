@@ -200,11 +200,11 @@ I use GitHub to:
 
 I'm always interested in connecting with developers, recruiters, companies, and people who are passionate about technology.
 
-💼 **[LinkedIn →](YOUR_LINKEDIN_URL)**
+💼 **[LinkedIn →](www.linkedin.com/in/chandra-shekar-malthumkar-745534232)**
 
-🌐 **[Portfolio →](YOUR_PORTFOLIO_URL)**
+🌐 **[Portfolio →](https://chandra-shekar-portfolio.vercel.app/)**
 
-📧 **[Email →](mailto:YOUR_EMAIL)**
+📧 **[Email →](mailto:chandrashekar7414@gmail.com)**
 
 🐙 **[GitHub →](https://github.com/Chandrashekar1404)**
 
