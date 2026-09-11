@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi 👋 I'm Chandra Shekar
 
-<!--
-**Chandrashekar1404/Chandrashekar1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Java | Spring-Boot | Python | Django | React
 
-Here are some ideas to get you started:
+I build modern web applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy turning real-world problems into practical
+software solutions.
+
+
+Languages
+Python | JavaScript | SQL
+
+Backend
+Django | Django REST Framework
+
+Frontend
+HTML | CSS | JavaScript | React
+
+Database
+MySQL | PostgreSQL
+
+Tools
+Git | GitHub | VS Code | Postman
+
+Deployment
+Render | Vercel | Docker
+
+1. AI Resume Builder
+2. Job Portal
+3. Restaurant Full-Stack Application
+4. Django REST API Project
+5. E-Commerce Application
